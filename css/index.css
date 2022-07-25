@@ -102,16 +102,17 @@ h1 {
     width: 600px;
     position: absolute;
     left: 125px;
+    top: 25px;
 }
 
 img.vector-img {
     position: absolute;
     left: 80px;
-    top: 340px;
+    top: 370px;
 }
 
 img.vector-dot {
-    left: 150px;
-    top: 340px;
+    left: 140px;
+    top: 365px;
     position: absolute;
 }
